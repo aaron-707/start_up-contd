@@ -1,0 +1,706 @@
+.dialpad {
+  align-items: start;
+  background-color: #393841;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.dialpad .div-5 {
+  background-color: #393841;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.dialpad .overlap-39 {
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 370px;
+  width: 375px;
+}
+
+.dialpad .design-component-instance-node {
+  background-color: unset !important;
+  box-shadow: 0px 4px 4px #00000040 !important;
+  left: 0 !important;
+  opacity: 0.2 !important;
+  position: absolute !important;
+  top: 408px !important;
+}
+
+.dialpad .navigation-home-2 {
+  background-color: #ffffff !important;
+}
+
+.dialpad .rectangle-5 {
+  background-color: #666576;
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dialpad .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 375px;
+}
+
+.dialpad .vector-31 {
+  height: 18px;
+  left: 338px;
+  position: absolute;
+  top: 18px;
+  width: 24px;
+}
+
+.dialpad .rectangle-6 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 28px;
+  position: absolute;
+  top: 73px;
+  width: 86px;
+}
+
+.dialpad .rounded-rectangle {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 145px;
+  position: absolute;
+  top: 73px;
+  width: 86px;
+}
+
+.dialpad .text-wrapper-49 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 180px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 79px;
+}
+
+.dialpad .rectangle-7 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 262px;
+  position: absolute;
+  top: 73px;
+  width: 86px;
+}
+
+.dialpad .text-wrapper-50 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+}
+
+.dialpad .rectangle-8 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 28px;
+  position: absolute;
+  top: 150px;
+  width: 86px;
+}
+
+.dialpad .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 155px;
+}
+
+.dialpad .rectangle-9 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 28px;
+  position: absolute;
+  top: 229px;
+  width: 86px;
+}
+
+.dialpad .rectangle-10 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 28px;
+  position: absolute;
+  top: 308px;
+  width: 86px;
+}
+
+.dialpad .rectangle-11 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 145px;
+  position: absolute;
+  top: 150px;
+  width: 86px;
+}
+
+.dialpad .rectangle-12 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 145px;
+  position: absolute;
+  top: 229px;
+  width: 86px;
+}
+
+.dialpad .rectangle-13 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 145px;
+  position: absolute;
+  top: 308px;
+  width: 86px;
+}
+
+.dialpad .rectangle-14 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 262px;
+  position: absolute;
+  top: 150px;
+  width: 86px;
+}
+
+.dialpad .rectangle-15 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 262px;
+  opacity: 0.9;
+  position: absolute;
+  top: 229px;
+  width: 86px;
+}
+
+.dialpad .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 297px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 232px;
+}
+
+.dialpad .text-wrapper-53 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 315px;
+}
+
+.dialpad .rounded-rectangle-2 {
+  background-color: #3a3941;
+  border-radius: 25px;
+  height: 57px;
+  left: 262px;
+  position: absolute;
+  top: 308px;
+  width: 86px;
+}
+
+.dialpad .rectangle-16 {
+  background-color: #19c57eb2;
+  border-radius: 25px;
+  height: 57px;
+  left: 145px;
+  position: absolute;
+  top: 379px;
+  width: 86px;
+}
+
+.dialpad .text-wrapper-54 {
+  color: #3a3941;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 399px;
+  white-space: nowrap;
+}
+
+.dialpad .vector-32 {
+  height: 18px;
+  left: 161px;
+  position: absolute;
+  top: 401px;
+  width: 18px;
+}
+
+.dialpad .text-wrapper-55 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+}
+
+.dialpad .text-wrapper-56 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 155px;
+}
+
+.dialpad .text-wrapper-57 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 298px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 155px;
+}
+
+.dialpad .text-wrapper-58 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 232px;
+}
+
+.dialpad .text-wrapper-59 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 181px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 232px;
+}
+
+.dialpad .text-wrapper-60 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 297px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 313px;
+}
+
+.dialpad .text-wrapper-61 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 323px;
+}
+
+.dialpad .text-wrapper-62 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 176px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+}
+
+.dialpad .text-wrapper-63 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 294px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+}
+
+.dialpad .text-wrapper-64 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+}
+
+.dialpad .text-wrapper-65 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 179px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 183px;
+}
+
+.dialpad .text-wrapper-66 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 292px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 183px;
+}
+
+.dialpad .text-wrapper-67 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 260px;
+}
+
+.dialpad .text-wrapper-68 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 177px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 261px;
+}
+
+.dialpad .text-wrapper-69 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 262px;
+}
+
+.dialpad .text-wrapper-70 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 338px;
+}
+
+.dialpad .vector-33 {
+  height: 8px;
+  left: 62px;
+  position: absolute;
+  top: 109px;
+  width: 18px;
+}
+
+.dialpad .vector-34 {
+  display: block;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 63px;
+  width: 16px;
+}
+
+.dialpad .text-wrapper-71 {
+  color: #ffffff;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+  white-space: nowrap;
+}
+
+.dialpad .overlap-40 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 146px;
+  width: 375px;
+}
+
+.dialpad .group-26 {
+  background-color: #3a3941;
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dialpad .ajai-mobile-wrapper {
+  height: 38px;
+  left: 74px;
+  position: absolute;
+  top: 15px;
+  width: 188px;
+}
+
+.dialpad .text-wrapper-72 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dialpad .vector-35 {
+  height: 20px;
+  left: 338px;
+  position: absolute;
+  top: 25px;
+  width: 20px;
+}
+
+.dialpad .group-27 {
+  height: 48px;
+  left: 19px;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+
+.dialpad .overlap-group-7 {
+  background-color: #e578dab2;
+  border-radius: 24px;
+  height: 48px;
+  position: relative;
+  width: 48px;
+}
+
+.dialpad .text-wrapper-73 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.dialpad .overlap-41 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 213px;
+  width: 375px;
+}
+
+.dialpad .group-28 {
+  height: 38px;
+  left: 74px;
+  position: absolute;
+  top: 15px;
+  width: 193px;
+}
+
+.dialpad .group-29 {
+  background-color: #229a68b2;
+  border-radius: 24px;
+  height: 48px;
+  left: 19px;
+  position: absolute;
+  top: 6px;
+  width: 48px;
+}
+
+.dialpad .text-wrapper-74 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.dialpad .overlap-42 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 280px;
+  width: 375px;
+}
+
+.dialpad .ellipse-5 {
+  height: 48px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 48px;
+}
+
+.dialpad .group-30 {
+  height: 19px;
+  left: 286px;
+  position: absolute;
+  top: 12px;
+  width: 91px;
+}
+
+.dialpad .text-wrapper-75 {
+  color: #5b5c58;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 16px;
+  left: 63px;
+  letter-spacing: -0.30px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.dialpad .vector-36 {
+  height: 19px;
+  left: 45px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.dialpad .vector-37 {
+  height: 16px;
+  left: 23px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.dialpad .group-31 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.dialpad .overlap-group-8 {
+  height: 20px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 18px;
+}
+
+.dialpad .vector-38 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.dialpad .vector-39 {
+  height: 5px;
+  left: 5px;
+  position: absolute;
+  top: 15px;
+  width: 8px;
+}
+
+.dialpad .vector-40 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}

@@ -1,0 +1,96 @@
+.lock-screen {
+  align-items: start;
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.lock-screen .overlap-group-wrapper-2 {
+  background-color: #ffffff;
+  height: 812px;
+  width: 375px;
+}
+
+.lock-screen .overlap-group-10 {
+  background-image: url(../../../static/img/rectangle-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 812px;
+  position: relative;
+}
+
+.lock-screen .ellipse-wrapper {
+  background-image: url(../../../static/img/ellipse-2.svg);
+  background-size: 100% 100%;
+  height: 59px;
+  left: 158px;
+  position: absolute;
+  top: 657px;
+  width: 59px;
+}
+
+.lock-screen .ellipse-16 {
+  height: 50px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+
+.lock-screen .overlap-50 {
+  height: 86px;
+  left: 112px;
+  position: absolute;
+  top: 88px;
+  width: 152px;
+}
+
+.lock-screen .text-wrapper-110 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.lock-screen .text-wrapper-111 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.lock-screen .phone-6 {
+  height: 40px;
+  left: 17px;
+  position: absolute;
+  top: 767px;
+  width: 27px;
+}
+
+.lock-screen .unsplash {
+  height: 29px;
+  left: 331px;
+  position: absolute;
+  top: 772px;
+  width: 28px;
+}
+
+.lock-screen .lock {
+  height: 24px;
+  left: 169px;
+  position: absolute;
+  top: 54px;
+  width: 38px;
+}

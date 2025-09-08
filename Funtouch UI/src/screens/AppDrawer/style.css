@@ -1,0 +1,1200 @@
+.app-drawer {
+  align-items: start;
+  background-color: transparent;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.app-drawer .div-12 {
+  background-image: url(../../../static/img/app-drawer.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.app-drawer .group-26 {
+  height: 28px;
+  left: 219px;
+  position: absolute;
+  top: 0;
+  width: 147px;
+}
+
+.app-drawer .group-27 {
+  height: 28px;
+  position: relative;
+  width: 153px;
+}
+
+.app-drawer .overlap-56 {
+  height: 28px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.app-drawer .group-28 {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-132.35deg);
+  width: 20px;
+}
+
+.app-drawer .overlap-group-14 {
+  height: 20px;
+  position: relative;
+}
+
+.app-drawer .ellipse-23 {
+  height: 14px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(132.35deg);
+  width: 14px;
+}
+
+.app-drawer .text-wrapper-131 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+}
+
+.app-drawer .text-wrapper-132 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.app-drawer .vector-58 {
+  height: 14px;
+  left: 24px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+
+.app-drawer .vector-59 {
+  height: 14px;
+  left: 82px;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+
+.app-drawer .text-wrapper-133 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.app-drawer .text-wrapper-134 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.app-drawer .text-wrapper-135 {
+  color: #817f7f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.app-drawer .vector-60 {
+  height: 20px;
+  left: 334px;
+  position: absolute;
+  top: 71px;
+  width: 5px;
+}
+
+.app-drawer .rectangle-43 {
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 169px;
+  width: 328px;
+}
+
+.app-drawer .group-29 {
+  height: 18px;
+  left: 27px;
+  position: absolute;
+  top: 138px;
+  width: 18px;
+}
+
+.app-drawer .overlap-57 {
+  height: 20px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 20px;
+}
+
+.app-drawer .vector-61 {
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 6px;
+}
+
+.app-drawer .vector-62 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.app-drawer .text-wrapper-136 {
+  color: #818080;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 137px;
+  white-space: nowrap;
+}
+
+.app-drawer .overlap-58 {
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 226px;
+  width: 306px;
+}
+
+.app-drawer .group-30 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 306px;
+}
+
+.app-drawer .rectangle-44 {
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.app-drawer .rectangle-45 {
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  height: 47px;
+  left: 259px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.app-drawer .rectangle-46 {
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  height: 47px;
+  left: 174px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.app-drawer .rectangle-47 {
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  height: 47px;
+  left: 87px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.app-drawer .group-31 {
+  height: 35px;
+  left: 12px;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.app-drawer .group-32 {
+  background-image: url(../../../static/img/ellipse-3-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 89px;
+  position: absolute;
+  top: 1px;
+  width: 45px;
+}
+
+.app-drawer .group-33 {
+  background-image: url(../../../static/img/rectangle-2-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  left: 177px;
+  position: absolute;
+  top: 2px;
+  width: 41px;
+}
+
+.app-drawer .group-34 {
+  background-image: url(../../../static/img/vector-64.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 267px;
+  position: absolute;
+  top: 8px;
+  width: 32px;
+}
+
+.app-drawer .vector-63 {
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.app-drawer .overlap-59 {
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+
+.app-drawer .vector-64 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 25px;
+}
+
+.app-drawer .vector-65 {
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.app-drawer .overlap-60 {
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 329px;
+  width: 306px;
+}
+
+.app-drawer .group-35 {
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.app-drawer .vector-66 {
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.app-drawer .vector-67 {
+  height: 15px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.app-drawer .vector-68 {
+  height: 8px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.app-drawer .vector-69 {
+  height: 15px;
+  left: 7px;
+  position: absolute;
+  top: 15px;
+  width: 8px;
+}
+
+.app-drawer .group-36 {
+  height: 27px;
+  left: 99px;
+  position: absolute;
+  top: 10px;
+  width: 25px;
+}
+
+.app-drawer .overlap-61 {
+  height: 27px;
+  position: relative;
+}
+
+.app-drawer .vector-70 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 17px;
+}
+
+.app-drawer .vector-71 {
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.app-drawer .vector-72 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.app-drawer .vector-73 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.app-drawer .group-37 {
+  height: 36px;
+  left: 180px;
+  position: absolute;
+  top: 7px;
+  width: 36px;
+}
+
+.app-drawer .group-38 {
+  height: 39px;
+  left: 264px;
+  position: absolute;
+  top: 4px;
+  width: 38px;
+}
+
+.app-drawer .overlap-62 {
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 425px;
+  width: 306px;
+}
+
+.app-drawer .group-39 {
+  height: 25px;
+  left: 95px;
+  position: absolute;
+  top: 11px;
+  width: 31px;
+}
+
+.app-drawer .overlap-63 {
+  height: 25px;
+  position: relative;
+}
+
+.app-drawer .vector-74 {
+  height: 12px;
+  left: 18px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.app-drawer .vector-75 {
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 8px;
+}
+
+.app-drawer .vector-76 {
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.app-drawer .vector-77 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.app-drawer .vector-78 {
+  height: 20px;
+  left: 25px;
+  position: absolute;
+  top: 3px;
+  width: 6px;
+}
+
+.app-drawer .vector-79 {
+  height: 12px;
+  left: 7px;
+  position: absolute;
+  top: 12px;
+  width: 17px;
+}
+
+.app-drawer .vector-80 {
+  height: 12px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.app-drawer .group-40 {
+  height: 27px;
+  left: 183px;
+  position: absolute;
+  top: 9px;
+  width: 30px;
+}
+
+.app-drawer .vector-81 {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 10px;
+}
+
+.app-drawer .vector-82 {
+  height: 9px;
+  left: 21px;
+  position: absolute;
+  top: 18px;
+  width: 9px;
+}
+
+.app-drawer .vector-83 {
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.app-drawer .vector-84 {
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 18px;
+  width: 21px;
+}
+
+.app-drawer .vector-85 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.app-drawer .vector-86 {
+  height: 18px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.app-drawer .group-41 {
+  height: 37px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 37px;
+}
+
+.app-drawer .group-42 {
+  height: 21px;
+  left: 269px;
+  position: absolute;
+  top: 14px;
+  width: 28px;
+}
+
+.app-drawer .overlap-64 {
+  height: 21px;
+  position: relative;
+}
+
+.app-drawer .vector-87 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.app-drawer .vector-88 {
+  height: 16px;
+  left: 22px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.app-drawer .vector-89 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.app-drawer .vector-90 {
+  height: 10px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.app-drawer .vector-91 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.app-drawer .group-43 {
+  height: 18px;
+  left: 354px;
+  position: absolute;
+  top: 294px;
+  width: 20px;
+}
+
+.app-drawer .overlap-65 {
+  background-color: #81808026;
+  border-radius: 5px;
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.app-drawer .text-wrapper-137 {
+  color: #818080;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.app-drawer .a-b-c-d-e-f-g-h-i-j-2 {
+  color: #818080;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 361px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 314px;
+}
+
+.app-drawer .text-wrapper-138 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 278px;
+}
+
+.app-drawer .text-wrapper-139 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 127px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 278px;
+}
+
+.app-drawer .text-wrapper-140 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 207px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 278px;
+}
+
+.app-drawer .text-wrapper-141 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 296px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 278px;
+}
+
+.app-drawer .overlap-66 {
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 521px;
+  width: 306px;
+}
+
+.app-drawer .group-44 {
+  height: 30px;
+  left: 9px;
+  position: absolute;
+  top: 7px;
+  width: 29px;
+}
+
+.app-drawer .overlap-67 {
+  height: 30px;
+  position: relative;
+}
+
+.app-drawer .vector-92 {
+  height: 6px;
+  left: 6px;
+  position: absolute;
+  top: 24px;
+  width: 17px;
+}
+
+.app-drawer .vector-93 {
+  height: 26px;
+  left: 15px;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
+.app-drawer .vector-94 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 6px;
+}
+
+.app-drawer .vector-95 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.app-drawer .group-45 {
+  height: 39px;
+  left: 91px;
+  position: absolute;
+  top: 4px;
+  width: 39px;
+}
+
+.app-drawer .group-46 {
+  background-image: url(../../../static/img/ellipse-3-2.png);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 177px;
+  position: absolute;
+  top: 5px;
+  width: 40px;
+}
+
+.app-drawer .group-47 {
+  height: 33px;
+  left: 266px;
+  position: absolute;
+  top: 7px;
+  width: 33px;
+}
+
+.app-drawer .overlap-68 {
+  height: 33px;
+  position: relative;
+}
+
+.app-drawer .vector-96 {
+  height: 18px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.app-drawer .vector-97 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.app-drawer .vector-98 {
+  height: 25px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.app-drawer .vector-99 {
+  height: 13px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.app-drawer .vector-100 {
+  height: 21px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.app-drawer .overlap-69 {
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 621px;
+  width: 306px;
+}
+
+.app-drawer .rectangle-48 {
+  height: 47px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.app-drawer .rectangle-49 {
+  background-color: #c4c4c4;
+  border-radius: 15px;
+  height: 47px;
+  left: 174px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.app-drawer .group-48 {
+  height: 29px;
+  left: 100px;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.app-drawer .group-49 {
+  background-image: url(../../../static/img/vector-103.svg);
+  background-size: 100% 100%;
+  height: 29px;
+  position: relative;
+}
+
+.app-drawer .vector-101 {
+  height: 7px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.app-drawer .vector-102 {
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 10px;
+  width: 9px;
+}
+
+.app-drawer .rectangle-50 {
+  height: 35px;
+  left: 180px;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.app-drawer .rectangle-51 {
+  height: 42px;
+  left: 262px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 42px;
+}
+
+.app-drawer .overlap-70 {
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 720px;
+  width: 134px;
+}
+
+.app-drawer .group-50 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.app-drawer .group-51 {
+  height: 30px;
+  left: 99px;
+  position: absolute;
+  top: 9px;
+  width: 15px;
+}
+
+.app-drawer .rectangle-52 {
+  height: 35px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 35px;
+}
+
+.app-drawer .text-wrapper-142 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 380px;
+}
+
+.app-drawer .text-wrapper-143 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 380px;
+}
+
+.app-drawer .text-wrapper-144 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 215px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 380px;
+}
+
+.app-drawer .text-wrapper-145 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 292px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 380px;
+}
+
+.app-drawer .text-wrapper-146 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 476px;
+}
+
+.app-drawer .text-wrapper-147 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 127px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 476px;
+}
+
+.app-drawer .text-wrapper-148 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 215px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 476px;
+}
+
+.app-drawer .text-wrapper-149 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 300px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 476px;
+}
+
+.app-drawer .text-wrapper-150 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 572px;
+}
+
+.app-drawer .text-wrapper-151 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 210px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 572px;
+}
+
+.app-drawer .text-wrapper-152 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 108px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 572px;
+}
+
+.app-drawer .text-wrapper-153 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 296px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 572px;
+}
+
+.app-drawer .text-wrapper-154 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 28px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 672px;
+}
+
+.app-drawer .text-wrapper-155 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 207px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 672px;
+}
+
+.app-drawer .text-wrapper-156 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 111px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 672px;
+}
+
+.app-drawer .text-wrapper-157 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 285px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 672px;
+}
+
+.app-drawer .text-wrapper-158 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 769px;
+}
+
+.app-drawer .text-wrapper-159 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 769px;
+}
+
+.app-drawer .rectangle-53 {
+  height: 4px;
+  left: 122px;
+  position: absolute;
+  top: 800px;
+  width: 131px;
+}

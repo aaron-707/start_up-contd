@@ -1,0 +1,463 @@
+.quick-setting {
+  align-items: start;
+  background-color: #0f0f0f;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.quick-setting .div {
+  background-color: #0f0f0f;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.quick-setting .group {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.quick-setting .overlap {
+  background-color: #242525eb;
+  border-radius: 88.5px / 83.5px;
+  height: 167px;
+  left: 10px;
+  position: absolute;
+  top: 69px;
+  width: 177px;
+}
+
+.quick-setting .wifi-wrapper {
+  background-color: #ffffffcc;
+  border-radius: 31px / 28.5px;
+  height: 57px;
+  left: 57px;
+  position: absolute;
+  top: 21px;
+  width: 62px;
+}
+
+.quick-setting .wifi {
+  aspect-ratio: 1;
+  height: 29px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.quick-setting .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 83px;
+}
+
+.quick-setting .text-wrapper-2 {
+  color: #a8a4a4;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 200;
+  left: 81px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  white-space: nowrap;
+}
+
+.quick-setting .overlap-2 {
+  height: 13px;
+  left: 85px;
+  position: absolute;
+  top: 121px;
+  width: 7px;
+}
+
+.quick-setting .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.quick-setting .text-wrapper-4 {
+  color: #a8a4a4;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 800;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.quick-setting .overlap-3 {
+  background-color: #252625;
+  border-radius: 86px / 84.5px;
+  height: 169px;
+  left: 193px;
+  position: absolute;
+  top: 72px;
+  width: 172px;
+}
+
+.quick-setting .bluetooth-wrapper {
+  background-color: #ffffff;
+  border-radius: 30px / 27.5px;
+  height: 55px;
+  left: 57px;
+  position: absolute;
+  top: 25px;
+  width: 60px;
+}
+
+.quick-setting .bluetooth {
+  aspect-ratio: 1;
+  height: 32px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 32px;
+}
+
+.quick-setting .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 600;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 80px;
+}
+
+.quick-setting .text-wrapper-6 {
+  color: #a8a4a4;
+  font-family: "Inter", Helvetica;
+  font-size: 11px;
+  font-weight: 200;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.quick-setting .overlap-4 {
+  background-color: #252625;
+  border-radius: 30px;
+  height: 59px;
+  left: 9px;
+  position: absolute;
+  top: 310px;
+  width: 173px;
+}
+
+.quick-setting .flash-light {
+  aspect-ratio: 1;
+  height: 16px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 16px;
+}
+
+.quick-setting .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+}
+
+.quick-setting .overlap-group-2 {
+  height: 105px;
+  left: 9px;
+  position: absolute;
+  top: 441px;
+  width: 357px;
+}
+
+.quick-setting .rectangle {
+  background-color: #252625;
+  border-radius: 30px;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.quick-setting .rectangle-2 {
+  background-color: #252625;
+  border-radius: 30px;
+  height: 59px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.quick-setting .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.quick-setting .text-wrapper-9 {
+  color: #252625;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.quick-setting .do-not {
+  aspect-ratio: 1;
+  height: 14px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 14px;
+}
+
+.quick-setting .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.quick-setting .img {
+  height: 13px;
+  left: 208px;
+  position: absolute;
+  top: 23px;
+  width: 13px;
+}
+
+.quick-setting .overlap-5 {
+  background-color: #252625;
+  border-radius: 30px;
+  height: 60px;
+  left: 9px;
+  position: absolute;
+  top: 375px;
+  width: 173px;
+}
+
+.quick-setting .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+}
+
+.quick-setting .vector-2 {
+  height: 10px;
+  left: 21px;
+  position: absolute;
+  top: 24px;
+  width: 13px;
+}
+
+.quick-setting .overlap-6 {
+  background-color: #252625;
+  border-radius: 30px;
+  height: 59px;
+  left: 193px;
+  position: absolute;
+  top: 311px;
+  width: 173px;
+}
+
+.quick-setting .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Inria Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.quick-setting .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.quick-setting .vector-3 {
+  height: 3px;
+  left: 36px;
+  position: absolute;
+  top: 18px;
+  width: 3px;
+}
+
+.quick-setting .vector-4 {
+  height: 4px;
+  left: 30px;
+  position: absolute;
+  top: 36px;
+  width: 4px;
+}
+
+.quick-setting .vector-5 {
+  height: 4px;
+  left: 24px;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.quick-setting .overlap-7 {
+  background-color: #252625;
+  border-radius: 30px;
+  height: 59px;
+  left: 193px;
+  position: absolute;
+  top: 376px;
+  width: 173px;
+}
+
+.quick-setting .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.quick-setting .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.quick-setting .vector-6 {
+  height: 10px;
+  left: 26px;
+  position: absolute;
+  top: 24px;
+  width: 11px;
+}
+
+.quick-setting .pencil {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 330px;
+  object-fit: cover;
+  position: absolute;
+  top: 526px;
+  width: 17px;
+}
+
+.quick-setting .settings-wrapper {
+  background-color: #252625;
+  border-radius: 13.5px / 13px;
+  height: 26px;
+  left: 291px;
+  position: absolute;
+  top: 735px;
+  width: 27px;
+}
+
+.quick-setting .icons-settings {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.quick-setting .power-button-wrapper {
+  background-color: #ffffff;
+  border-radius: 13.5px / 13px;
+  height: 26px;
+  left: 328px;
+  position: absolute;
+  top: 735px;
+  width: 27px;
+}
+
+.quick-setting .power-button {
+  aspect-ratio: 1;
+  height: 19px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 19px;
+}

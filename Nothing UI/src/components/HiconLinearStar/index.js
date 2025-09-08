@@ -1,0 +1,1 @@
+export { HiconLinearStar } from "./HiconLinearStar";

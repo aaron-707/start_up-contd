@@ -1,0 +1,635 @@
+.contacts {
+  align-items: start;
+  background-color: #000000;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.contacts .div-9 {
+  background-color: #000000;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.contacts .UI-bars-status-bars-4 {
+  background-color: #000000;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.contacts .wifi-4 {
+  height: 10px;
+  left: 314px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.contacts .mobile-signal-4 {
+  height: 10px;
+  left: 290px;
+  position: absolute;
+  top: 14px;
+  width: 17px;
+}
+
+.contacts .overlap-group-9 {
+  height: 21px;
+  left: 336px;
+  position: absolute;
+  top: 9px;
+  width: 45px;
+}
+
+.contacts .charging-circle-4 {
+  aspect-ratio: 1;
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 11px;
+}
+
+.contacts .text-wrapper-94 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 21px;
+  left: 6px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 39px;
+}
+
+.contacts .overlap-48 {
+  height: 604px;
+  left: -6px;
+  position: absolute;
+  top: 208px;
+  width: 398px;
+}
+
+.contacts .rectangle-33 {
+  background-color: #000000;
+  border: 2px solid;
+  border-color: #6a6666;
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 509px;
+  width: 398px;
+}
+
+.contacts .image-11 {
+  aspect-ratio: 1;
+  height: 27px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 28px;
+}
+
+.contacts .rectangle-34 {
+  height: 4px;
+  left: 132px;
+  position: absolute;
+  top: 585px;
+  width: 131px;
+}
+
+.contacts .text-wrapper-95 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 8px;
+  font-weight: 500;
+  height: 16px;
+  left: 166px;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 549px;
+  width: 41px;
+}
+
+.contacts .dial-button-3 {
+  display: block;
+  height: 51px;
+  left: 51px;
+  position: absolute;
+  top: 519px;
+  width: 56px;
+}
+
+.contacts .overlap-49 {
+  height: 51px;
+  position: relative;
+  width: 54px;
+}
+
+.contacts .text-wrapper-96 {
+  color: #585858;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.contacts .image-12 {
+  aspect-ratio: 1;
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.contacts .fav-button-3 {
+  display: block;
+  height: 44px;
+  left: 299px;
+  position: absolute;
+  top: 522px;
+  width: 37px;
+}
+
+.contacts .star-5 {
+  aspect-ratio: 1;
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.contacts .text-wrapper-97 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 8px;
+  font-weight: 300;
+  height: 12px;
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+}
+
+.contacts .text-wrapper-98 {
+  color: #585858;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+  width: 23px;
+}
+
+.contacts .text-wrapper-99 {
+  color: #585858;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 240px;
+  width: 23px;
+}
+
+.contacts .rectangle-35 {
+  background-color: #000000;
+  height: 68px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 376px;
+}
+
+.contacts .ellipse-8 {
+  height: 30px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-100 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 135px;
+}
+
+.contacts .simcard-18 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 15px;
+}
+
+.contacts .rectangle-36 {
+  background-color: #000000;
+  height: 68px;
+  left: 3px;
+  position: absolute;
+  top: 106px;
+  width: 376px;
+}
+
+.contacts .ellipse-9 {
+  height: 30px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-101 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+  width: 135px;
+}
+
+.contacts .simcard-19 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 329px;
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 15px;
+}
+
+.contacts .rectangle-37 {
+  background-color: #000000;
+  height: 68px;
+  left: 6px;
+  position: absolute;
+  top: 174px;
+  width: 376px;
+}
+
+.contacts .ellipse-10 {
+  height: 30px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 187px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-102 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 192px;
+  width: 135px;
+}
+
+.contacts .simcard-20 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 15px;
+}
+
+.contacts .rectangle-38 {
+  background-color: #000000;
+  height: 68px;
+  left: 5px;
+  position: absolute;
+  top: 270px;
+  width: 376px;
+}
+
+.contacts .ellipse-11 {
+  height: 30px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-103 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 288px;
+  width: 135px;
+}
+
+.contacts .simcard-21 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 15px;
+}
+
+.contacts .rectangle-39 {
+  background-color: #000000;
+  height: 68px;
+  left: 6px;
+  position: absolute;
+  top: 333px;
+  width: 376px;
+}
+
+.contacts .ellipse-12 {
+  height: 30px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-104 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 351px;
+  width: 135px;
+}
+
+.contacts .simcard-22 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 15px;
+}
+
+.contacts .rectangle-40 {
+  background-color: #000000;
+  height: 68px;
+  left: 6px;
+  position: absolute;
+  top: 390px;
+  width: 376px;
+}
+
+.contacts .ellipse-13 {
+  height: 30px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 403px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-105 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 408px;
+  width: 135px;
+}
+
+.contacts .simcard-23 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 15px;
+}
+
+.contacts .rectangle-41 {
+  background-color: #000000;
+  height: 68px;
+  left: 6px;
+  position: absolute;
+  top: 451px;
+  width: 376px;
+}
+
+.contacts .ellipse-14 {
+  height: 30px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 464px;
+  width: 30px;
+}
+
+.contacts .text-wrapper-106 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 469px;
+  width: 135px;
+}
+
+.contacts .simcard-24 {
+  aspect-ratio: 1;
+  height: 15px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 477px;
+  width: 15px;
+}
+
+.contacts .a-b-c-d-e-f-g-h-i-j {
+  color: #767676;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 362px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 12px;
+}
+
+.contacts .rectangle-42 {
+  background-color: #403d3d;
+  border-radius: 1px;
+  height: 12px;
+  left: 360px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.contacts .dots {
+  aspect-ratio: 1;
+  height: 10px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+
+.contacts .image-13 {
+  aspect-ratio: 1;
+  height: 16px;
+  left: 337px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.contacts .ellipse-15 {
+  background-color: #a5a4a4;
+  border-radius: 35.5px / 33px;
+  height: 66px;
+  left: 290px;
+  position: absolute;
+  top: 400px;
+  width: 71px;
+}
+
+.contacts .text-wrapper-107 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 300;
+  height: 45px;
+  left: 296px;
+  letter-spacing: -0.80px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 418px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.contacts .check-box-4 {
+  aspect-ratio: 1;
+  height: 20px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 20px;
+}
+
+.contacts .text-wrapper-108 {
+  color: #585858;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 166px;
+  width: 23px;
+}
+
+.contacts .text-wrapper-109 {
+  color: #fffcfc;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  width: 191px;
+}
+
+.contacts .magnifying-glass {
+  aspect-ratio: 1;
+  height: 20px;
+  left: 287px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 20px;
+}
+
+.contacts .dots-2 {
+  aspect-ratio: 1;
+  height: 20px;
+  left: 321px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 20px;
+}

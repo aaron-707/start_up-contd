@@ -1,0 +1,960 @@
+.dial {
+  align-items: start;
+  background-color: #000000;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.dial .div-3 {
+  background-color: #000000;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.dial .overlap-2 {
+  height: 87px;
+  left: -22px;
+  position: absolute;
+  top: -1px;
+  width: 408px;
+}
+
+.dial .overlap-3 {
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.dial .rectangle-4 {
+  background-color: #000000;
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.dial .text-wrapper-29 {
+  color: #fffcfc;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 300;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.dial .UI-bars-status-bars {
+  background-color: #000000;
+  height: 41px;
+  left: 22px;
+  position: absolute;
+  top: 1px;
+  width: 375px;
+}
+
+.dial .wifi {
+  height: 10px;
+  left: 314px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.dial .mobile-signal {
+  height: 10px;
+  left: 290px;
+  position: absolute;
+  top: 14px;
+  width: 17px;
+}
+
+.dial .overlap-group-3 {
+  height: 21px;
+  left: 336px;
+  position: absolute;
+  top: 9px;
+  width: 45px;
+}
+
+.dial .charging-circle {
+  aspect-ratio: 1;
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 11px;
+}
+
+.dial .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 21px;
+  left: 6px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 39px;
+}
+
+.dial .image {
+  aspect-ratio: 1;
+  height: 25px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 25px;
+}
+
+.dial .check-box {
+  aspect-ratio: 1;
+  height: 20px;
+  left: 310px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 20px;
+}
+
+.dial .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1123px;
+}
+
+.dial .overlap-4 {
+  height: 163px;
+  left: 5px;
+  position: absolute;
+  top: 128px;
+  width: 375px;
+}
+
+.dial .rectangle-5 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dial .jacob {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 132px;
+}
+
+.dial .span {
+  color: #ffffff;
+}
+
+.dial .text-wrapper-32 {
+  color: #bbb4b4;
+  font-size: 10px;
+}
+
+.dial .simcard {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 12px;
+}
+
+.dial .phone {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.dial .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 53px;
+}
+
+.dial .information {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 18px;
+}
+
+.dial .rectangle-6 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 375px;
+}
+
+.dial .cholan {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  width: 132px;
+}
+
+.dial .text-wrapper-34 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 53px;
+}
+
+.dial .information-2 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 18px;
+}
+
+.dial .rectangle-7 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 375px;
+}
+
+.dial .pooja {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  width: 155px;
+}
+
+.dial .text-wrapper-35 {
+  color: #e04c4c;
+}
+
+.dial .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+  width: 53px;
+}
+
+.dial .information-3 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 18px;
+}
+
+.dial .simcard-2 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 12px;
+}
+
+.dial .simcard-3 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 12px;
+}
+
+.dial .overlap-5 {
+  height: 418px;
+  left: 4px;
+  position: absolute;
+  top: 291px;
+  width: 376px;
+}
+
+.dial .rectangle-8 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dial .tanisha {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 132px;
+}
+
+.dial .text-wrapper-37 {
+  color: #d14942;
+}
+
+.dial .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 53px;
+}
+
+.dial .information-4 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 18px;
+}
+
+.dial .rectangle-9 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 375px;
+}
+
+.dial .frank {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 54px;
+  width: 132px;
+}
+
+.dial .text-wrapper-39 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  width: 53px;
+}
+
+.dial .information-5 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 18px;
+}
+
+.dial .rectangle-10 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 100px;
+  width: 375px;
+}
+
+.dial .fred {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  width: 132px;
+}
+
+.dial .simcard-4 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 12px;
+}
+
+.dial .phone-2 {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 17px;
+}
+
+.dial .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 119px;
+  width: 53px;
+}
+
+.dial .information-6 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 18px;
+}
+
+.dial .rectangle-11 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 155px;
+  width: 375px;
+}
+
+.dial .michael {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 161px;
+  width: 132px;
+}
+
+.dial .phone-3 {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 170px;
+  width: 17px;
+}
+
+.dial .text-wrapper-41 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 174px;
+  width: 53px;
+}
+
+.dial .information-7 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 18px;
+}
+
+.dial .rectangle-12 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 304px;
+  width: 375px;
+}
+
+.dial .guna {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 310px;
+  width: 132px;
+}
+
+.dial .text-wrapper-42 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 322px;
+  width: 53px;
+}
+
+.dial .information-8 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 18px;
+}
+
+.dial .rectangle-13 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 359px;
+  width: 375px;
+}
+
+.dial .mike {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 365px;
+  width: 132px;
+}
+
+.dial .text-wrapper-43 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 377px;
+  width: 53px;
+}
+
+.dial .information-9 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 378px;
+  width: 18px;
+}
+
+.dial .rectangle-14 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 201px;
+  width: 375px;
+}
+
+.dial .teddy {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 207px;
+  width: 132px;
+}
+
+.dial .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 289px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 220px;
+  width: 53px;
+}
+
+.dial .information-10 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 220px;
+  width: 18px;
+}
+
+.dial .rectangle-15 {
+  background-color: #000000;
+  height: 59px;
+  left: 1px;
+  position: absolute;
+  top: 256px;
+  width: 375px;
+}
+
+.dial .george {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 262px;
+  width: 132px;
+}
+
+.dial .phone-4 {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 271px;
+  width: 17px;
+}
+
+.dial .text-wrapper-45 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 275px;
+  width: 53px;
+}
+
+.dial .information-11 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 342px;
+  object-fit: cover;
+  position: absolute;
+  top: 275px;
+  width: 18px;
+}
+
+.dial .simcard-5 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 12px;
+}
+
+.dial .simcard-6 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 12px;
+}
+
+.dial .simcard-7 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 182px;
+  width: 12px;
+}
+
+.dial .simcard-8 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 227px;
+  width: 12px;
+}
+
+.dial .simcard-9 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 12px;
+}
+
+.dial .simcard-10 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 12px;
+}
+
+.dial .simcard-11 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 387px;
+  width: 12px;
+}
+
+.dial .num-pad-button {
+  background-color: #a5a4a4;
+  border-radius: 35.5px / 33px;
+  display: block;
+  height: 66px;
+  left: 148px;
+  position: absolute;
+  top: 341px;
+  width: 71px;
+}
+
+.dial .dialpad {
+  aspect-ratio: 1;
+  height: 25px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 25px;
+}
+
+.dial .overlap-6 {
+  background-color: #000000;
+  border: 2px solid;
+  border-color: #6a6666;
+  height: 95px;
+  left: -6px;
+  position: absolute;
+  top: 717px;
+  width: 398px;
+}
+
+.dial .rectangle-16 {
+  height: 4px;
+  left: 130px;
+  position: absolute;
+  top: 74px;
+  width: 131px;
+}
+
+.dial .contact {
+  display: block;
+  height: 46px;
+  left: 164px;
+  position: absolute;
+  top: 9px;
+  width: 43px;
+}
+
+.dial .image-2 {
+  aspect-ratio: 1;
+  height: 27px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.dial .text-wrapper-46 {
+  color: #bebebe;
+  font-family: "Poppins", Helvetica;
+  font-size: 8px;
+  font-weight: 300;
+  height: 16px;
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 41px;
+}
+
+.dial .overlap-7 {
+  height: 50px;
+  left: 51px;
+  position: absolute;
+  top: 10px;
+  width: 54px;
+}
+
+.dial .text-wrapper-47 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.dial .image-3 {
+  aspect-ratio: 1;
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.dial .fav-button {
+  display: block;
+  height: 44px;
+  left: 297px;
+  position: absolute;
+  top: 11px;
+  width: 37px;
+}
+
+.dial .star {
+  aspect-ratio: 1;
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.dial .text-wrapper-48 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 8px;
+  font-weight: 300;
+  height: 12px;
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+}

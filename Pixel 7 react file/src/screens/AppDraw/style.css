@@ -1,0 +1,704 @@
+.app-draw {
+  align-items: start;
+  background-color: #f2eeee;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.app-draw .div-13 {
+  background-color: #f2eeee;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.app-draw .group-108 {
+  height: 19px;
+  left: 299px;
+  position: absolute;
+  top: 12px;
+  width: 68px;
+}
+
+.app-draw .text-wrapper-150 {
+  color: #5b5c58;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 15px;
+  font-weight: 500;
+  height: 16px;
+  left: 41px;
+  letter-spacing: -0.30px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.app-draw .vector-105 {
+  height: 19px;
+  left: 23px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.app-draw .vector-106 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.app-draw .overlap-91 {
+  background-color: #e6eaec;
+  border-radius: 30px;
+  height: 44px;
+  left: 4px;
+  position: absolute;
+  top: 51px;
+  width: 365px;
+}
+
+.app-draw .vector-107 {
+  height: 13px;
+  left: 325px;
+  position: absolute;
+  top: 15px;
+  width: 4px;
+}
+
+.app-draw .text-wrapper-151 {
+  color: #979090;
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 20px;
+  left: 20px;
+  letter-spacing: -0.30px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 262px;
+}
+
+.app-draw .group-109 {
+  height: 55px;
+  left: 6px;
+  position: absolute;
+  top: 127px;
+  width: 55px;
+}
+
+.app-draw .overlap-92 {
+  height: 103px;
+  left: 6px;
+  position: absolute;
+  top: 217px;
+  width: 206px;
+}
+
+.app-draw .overlap-93 {
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 206px;
+}
+
+.app-draw .group-110 {
+  background-image: url(../../../static/img/ellipse-3.png);
+  background-size: 100% 100%;
+  height: 103px;
+  left: 52px;
+  position: absolute;
+  top: 0;
+  width: 151px;
+}
+
+.app-draw .group-111 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 55px;
+}
+
+.app-draw .group-112 {
+  background-image: url(../../../static/img/ellipse-3-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 55px;
+  left: 151px;
+  position: absolute;
+  top: 20px;
+  width: 55px;
+}
+
+.app-draw .text-wrapper-152 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 80px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+}
+
+.app-draw .text-wrapper-153 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 150px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 88px;
+}
+
+.app-draw .text-wrapper-154 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 12px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 88px;
+}
+
+.app-draw .group-113 {
+  height: 52px;
+  left: 81px;
+  position: absolute;
+  top: 129px;
+  width: 52px;
+}
+
+.app-draw .overlap-group-24 {
+  height: 52px;
+  position: relative;
+}
+
+.app-draw .vector-108 {
+  height: 27px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 27px;
+}
+
+.app-draw .vector-109 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 37px;
+}
+
+.app-draw .vector-110 {
+  height: 39px;
+  left: 24px;
+  position: absolute;
+  top: 13px;
+  width: 28px;
+}
+
+.app-draw .vector-111 {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
+
+.app-draw .vector-112 {
+  height: 34px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.app-draw .group-114 {
+  height: 52px;
+  left: 319px;
+  position: absolute;
+  top: 354px;
+  width: 52px;
+}
+
+.app-draw .group-115 {
+  height: 55px;
+  left: 157px;
+  position: absolute;
+  top: 130px;
+  width: 55px;
+}
+
+.app-draw .group-116 {
+  height: 55px;
+  left: 6px;
+  position: absolute;
+  top: 599px;
+  width: 55px;
+}
+
+.app-draw .text-wrapper-155 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 542px;
+}
+
+.app-draw .group-117 {
+  background-color: #ffffff;
+  border-radius: 27.68px;
+  height: 55px;
+  left: 238px;
+  position: absolute;
+  top: 130px;
+  width: 55px;
+}
+
+.app-draw .group-118 {
+  background-image: url(../../../static/img/rectangle-2-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  position: relative;
+  top: 3px;
+}
+
+.app-draw .group-119 {
+  background-image: url(../../../static/img/ellipse-3-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 55px;
+  left: 314px;
+  position: absolute;
+  top: 128px;
+  width: 55px;
+}
+
+.app-draw .group-120 {
+  background-image: url(../../../static/img/ellipse-3-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 55px;
+  left: 158px;
+  position: absolute;
+  top: 476px;
+  width: 55px;
+}
+
+.app-draw .rectangle-36 {
+  background-color: #d9d9d9;
+  height: 5px;
+  left: 104px;
+  position: absolute;
+  top: 788px;
+  width: 167px;
+}
+
+.app-draw .text-wrapper-156 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 326px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+}
+
+.app-draw .text-wrapper-157 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 243px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+}
+
+.app-draw .text-wrapper-158 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 85px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+}
+
+.app-draw .text-wrapper-159 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 171px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+}
+
+.app-draw .text-wrapper-160 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 18px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+}
+
+.app-draw .group-121 {
+  height: 55px;
+  left: 238px;
+  position: absolute;
+  top: 235px;
+  width: 55px;
+}
+
+.app-draw .group-122 {
+  height: 55px;
+  left: 317px;
+  position: absolute;
+  top: 235px;
+  width: 55px;
+}
+
+.app-draw .text-wrapper-161 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 244px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 305px;
+}
+
+.app-draw .text-wrapper-162 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 329px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 305px;
+}
+
+.app-draw .group-123 {
+  height: 55px;
+  left: 6px;
+  position: absolute;
+  top: 354px;
+  width: 55px;
+}
+
+.app-draw .group-124 {
+  height: 55px;
+  left: 80px;
+  position: absolute;
+  top: 353px;
+  width: 55px;
+}
+
+.app-draw .group-125 {
+  height: 55px;
+  left: 158px;
+  position: absolute;
+  top: 354px;
+  width: 55px;
+}
+
+.app-draw .group-126 {
+  height: 55px;
+  left: 238px;
+  position: absolute;
+  top: 354px;
+  width: 55px;
+}
+
+.app-draw .text-wrapper-163 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 424px;
+}
+
+.app-draw .text-wrapper-164 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 423px;
+}
+
+.app-draw .text-wrapper-165 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 424px;
+}
+
+.app-draw .text-wrapper-166 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 424px;
+}
+
+.app-draw .text-wrapper-167 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 323px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 424px;
+}
+
+.app-draw .group-127 {
+  height: 55px;
+  left: 6px;
+  position: absolute;
+  top: 473px;
+  width: 55px;
+}
+
+.app-draw .group-128 {
+  height: 55px;
+  left: 79px;
+  position: absolute;
+  top: 472px;
+  width: 55px;
+}
+
+.app-draw .group-129 {
+  height: 55px;
+  left: 238px;
+  position: absolute;
+  top: 476px;
+  width: 55px;
+}
+
+.app-draw .group-130 {
+  height: 55px;
+  left: 316px;
+  position: absolute;
+  top: 476px;
+  width: 55px;
+}
+
+.app-draw .text-wrapper-168 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 543px;
+}
+
+.app-draw .text-wrapper-169 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 543px;
+}
+
+.app-draw .text-wrapper-170 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 249px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 543px;
+}
+
+.app-draw .text-wrapper-171 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 329px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 543px;
+}
+
+.app-draw .group-131 {
+  background-image: url(../../../static/img/ellipse-3-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58px;
+  left: 81px;
+  position: absolute;
+  top: 598px;
+  width: 57px;
+}
+
+.app-draw .group-132 {
+  background-color: #ffffff;
+  border-radius: 27.68px;
+  height: 55px;
+  left: 157px;
+  position: absolute;
+  top: 599px;
+  width: 55px;
+}
+
+.app-draw .group-133 {
+  height: 52px;
+  left: 244px;
+  position: absolute;
+  top: 602px;
+  width: 51px;
+}
+
+.app-draw .group-134 {
+  height: 55px;
+  left: 311px;
+  position: absolute;
+  top: 602px;
+  width: 55px;
+}
+
+.app-draw .text-wrapper-172 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 669px;
+}
+
+.app-draw .text-wrapper-173 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 668px;
+}
+
+.app-draw .text-wrapper-174 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 157px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 669px;
+}
+
+.app-draw .text-wrapper-175 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 247px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 669px;
+}
+
+.app-draw .text-wrapper-176 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 326px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 669px;
+}

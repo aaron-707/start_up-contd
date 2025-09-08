@@ -1,0 +1,1 @@
+export { QuickSetting } from "./QuickSetting";

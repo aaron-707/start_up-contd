@@ -1,0 +1,93 @@
+.lock-screen {
+  align-items: start;
+  background-color: transparent;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.lock-screen .div-9 {
+  background-image: url(../../../static/img/lock-screen.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.lock-screen .text-wrapper-120 {
+  color: #5b5b57;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  height: 75px;
+  left: 19px;
+  letter-spacing: -1.28px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  white-space: nowrap;
+}
+
+.lock-screen .text-wrapper-121 {
+  color: #5b5c58;
+  font-family: "Roboto", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  height: 56px;
+  left: -81px;
+  letter-spacing: -0.96px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 376px;
+  transform: rotate(-89.14deg);
+  white-space: nowrap;
+}
+
+.lock-screen .group-71 {
+  background-color: #ffffff;
+  border-radius: 40px;
+  height: 80px;
+  left: 148px;
+  position: absolute;
+  top: 595px;
+  width: 80px;
+}
+
+.lock-screen .vector-76 {
+  height: 38px;
+  left: 23px;
+  position: absolute;
+  top: 22px;
+  width: 34px;
+}
+
+.lock-screen .group-72 {
+  background-color: #ffffff;
+  border-radius: 30.5px;
+  height: 61px;
+  left: 19px;
+  position: absolute;
+  top: 735px;
+  width: 61px;
+}
+
+.lock-screen .vector-77 {
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.lock-screen .group-73 {
+  height: 61px;
+  left: 302px;
+  position: absolute;
+  top: 735px;
+  width: 61px;
+}

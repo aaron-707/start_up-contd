@@ -1,0 +1,16 @@
+.navigation-home {
+  background-color: #1d2026;
+  display: block;
+  height: 34px;
+  width: 375px;
+}
+
+.navigation-home .line {
+  background-color: #ffffffe6;
+  border-radius: 100px;
+  height: 5px;
+  left: 120px;
+  position: relative;
+  top: 21px;
+  width: 135px;
+}

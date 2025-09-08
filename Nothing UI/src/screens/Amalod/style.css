@@ -1,0 +1,122 @@
+.amalod {
+  align-items: start;
+  background-color: #0f0f0f;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.amalod .div-6 {
+  background-color: #0f0f0f;
+  display: block;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.amalod .div-wrapper {
+  height: 144px;
+  left: 143px;
+  position: absolute;
+  top: 192px;
+  width: 96px;
+}
+
+.amalod .overlap-group-5 {
+  height: 144px;
+  position: relative;
+  width: 90px;
+}
+
+.amalod .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.amalod .text-wrapper-29 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  height: 56px;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  transform: rotate(90.00deg);
+  white-space: nowrap;
+}
+
+.amalod .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+  white-space: nowrap;
+}
+
+.amalod .mon-may-2 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 348px;
+  white-space: nowrap;
+}
+
+.amalod .ray-2 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 376px;
+  white-space: nowrap;
+}
+
+.amalod .p {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 75px;
+}
+
+.amalod .navigation-home-4 {
+  background-color: unset !important;
+  box-shadow: 0px 4px 4px #00000040 !important;
+  left: 0 !important;
+  opacity: 0.2 !important;
+  position: absolute !important;
+  top: 778px !important;
+}
+
+.amalod .navigation-home-5 {
+  background-color: #ffffff !important;
+}

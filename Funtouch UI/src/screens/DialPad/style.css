@@ -1,0 +1,868 @@
+.dial-pad {
+  align-items: start;
+  background-color: #000000;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.dial-pad .div-6 {
+  background-color: #000000;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.dial-pad .overlap-41 {
+  height: 453px;
+  left: -16px;
+  position: absolute;
+  top: 359px;
+  width: 408px;
+}
+
+.dial-pad .frame {
+  background-color: #000000;
+  border: 2px solid;
+  border-color: #303030;
+  height: 426px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 408px;
+}
+
+.dial-pad .element-wrapper {
+  align-items: center;
+  background-color: #2e2c2c;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 110px;
+  padding: 0px 10px;
+  position: absolute;
+  top: 35px;
+  width: 47px;
+}
+
+.dial-pad .element {
+  color: #ffffff;
+  font-family: "Inria Serif", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  height: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 17px;
+}
+
+.dial-pad .text-wrapper-74 {
+  color: #ffffff;
+  font-family: "Inria Serif", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.dial-pad .text-wrapper-75 {
+  font-size: 10px;
+}
+
+.dial-pad .frame-2 {
+  align-items: center;
+  background-color: #040404;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 267px;
+  padding: 10px;
+  position: absolute;
+  top: 223px;
+  width: 47px;
+}
+
+.dial-pad .text-wrapper-76 {
+  color: #ffffff;
+  font-family: "Inria Serif", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -9.00px;
+  margin-top: -11.00px;
+  position: relative;
+  width: 21px;
+}
+
+.dial-pad .frame-3 {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 188px;
+  padding: 10px;
+  position: absolute;
+  top: 223px;
+  width: 48px;
+}
+
+.dial-pad .div-7 {
+  color: #ffffff;
+  font-family: "Inria Serif", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -5.50px;
+  margin-top: -7.50px;
+  position: relative;
+  width: fit-content;
+}
+
+.dial-pad .frame-4 {
+  align-items: center;
+  background-color: #010101;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 110px;
+  padding: 10px;
+  position: absolute;
+  top: 223px;
+  width: 47px;
+}
+
+.dial-pad .text-wrapper-77 {
+  color: #ffffff;
+  font-family: "Inria Serif", Helvetica;
+  font-size: 44px;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -9.00px;
+  margin-top: -11.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.dial-pad .element-WXYZ-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  left: 267px;
+  padding: 10px;
+  position: absolute;
+  top: 166px;
+  width: 47px;
+}
+
+.dial-pad .div-8 {
+  color: #ffffff;
+  font-family: "Inria Serif", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -5.00px;
+  margin-top: -7.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.dial-pad .element-TUV-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  left: 188px;
+  padding: 10px;
+  position: absolute;
+  top: 166px;
+  width: 48px;
+}
+
+.dial-pad .element-PQRS-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  left: 110px;
+  padding: 10px;
+  position: absolute;
+  top: 166px;
+  width: 47px;
+}
+
+.dial-pad .element-MNO-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  left: 267px;
+  padding: 10px;
+  position: absolute;
+  top: 103px;
+  width: 47px;
+}
+
+.dial-pad .element-JKLT-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  left: 188px;
+  padding: 10px;
+  position: absolute;
+  top: 103px;
+  width: 48px;
+}
+
+.dial-pad .element-GHI-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 47px;
+  justify-content: center;
+  left: 110px;
+  padding: 10px;
+  position: absolute;
+  top: 99px;
+  width: 47px;
+}
+
+.dial-pad .element-DEF-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 267px;
+  padding: 10px;
+  position: absolute;
+  top: 35px;
+  width: 47px;
+}
+
+.dial-pad .element-ABC-wrapper {
+  align-items: center;
+  background-color: #000000;
+  border-radius: 53px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 188px;
+  padding: 10px;
+  position: absolute;
+  top: 35px;
+  width: 48px;
+}
+
+.dial-pad .delete {
+  aspect-ratio: 1;
+  height: 22px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 22px;
+}
+
+.dial-pad .overlap-42 {
+  background-color: #50b45e;
+  border-radius: 10px 0px 0px 10px;
+  height: 41px;
+  left: 119px;
+  position: absolute;
+  top: 289px;
+  width: 85px;
+}
+
+.dial-pad .text-wrapper-78 {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 33px;
+}
+
+.dial-pad .text-wrapper-79 {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 5px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: 6px;
+}
+
+.dial-pad .overlap-group-8 {
+  background-color: #50b45e;
+  border-radius: 0px 10px 10px 0px;
+  height: 41px;
+  left: 206px;
+  position: absolute;
+  top: 289px;
+  width: 85px;
+}
+
+.dial-pad .text-wrapper-80 {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 33px;
+}
+
+.dial-pad .menu {
+  aspect-ratio: 1;
+  height: 22px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 22px;
+}
+
+.dial-pad .rectangle-28 {
+  background-color: #000000;
+  border: 2px solid;
+  border-color: #6a6666;
+  height: 95px;
+  left: 10px;
+  position: absolute;
+  top: 358px;
+  width: 398px;
+}
+
+.dial-pad .rectangle-29 {
+  height: 4px;
+  left: 142px;
+  position: absolute;
+  top: 434px;
+  width: 131px;
+}
+
+.dial-pad .contact-button-2 {
+  display: block;
+  height: 46px;
+  left: 176px;
+  position: absolute;
+  top: 369px;
+  width: 43px;
+}
+
+.dial-pad .image-6 {
+  aspect-ratio: 1;
+  height: 27px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.dial-pad .text-wrapper-81 {
+  color: #bebebe;
+  font-family: "Poppins", Helvetica;
+  font-size: 8px;
+  font-weight: 300;
+  height: 16px;
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 41px;
+}
+
+.dial-pad .dial-button-2 {
+  display: block;
+  height: 51px;
+  left: 61px;
+  position: absolute;
+  top: 368px;
+  width: 56px;
+}
+
+.dial-pad .overlap-43 {
+  height: 51px;
+  position: relative;
+  width: 54px;
+}
+
+.dial-pad .text-wrapper-82 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.dial-pad .image-7 {
+  aspect-ratio: 1;
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.dial-pad .image-8 {
+  aspect-ratio: 1;
+  height: 28px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 28px;
+}
+
+.dial-pad .image-9 {
+  aspect-ratio: 1;
+  height: 28px;
+  left: 209px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 28px;
+}
+
+.dial-pad .fav-button-2 {
+  display: block;
+  height: 44px;
+  left: 309px;
+  position: absolute;
+  top: 371px;
+  width: 37px;
+}
+
+.dial-pad .star-4 {
+  aspect-ratio: 1;
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.dial-pad .text-wrapper-83 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 8px;
+  font-weight: 300;
+  height: 12px;
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+}
+
+.dial-pad .text-wrapper-84 {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 5px;
+  font-weight: 400;
+  left: 225px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 305px;
+  white-space: nowrap;
+  width: 6px;
+}
+
+.dial-pad .UI-bars-status-bars-3 {
+  background-color: #000000;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dial-pad .wifi-3 {
+  height: 10px;
+  left: 314px;
+  position: absolute;
+  top: 15px;
+  width: 15px;
+}
+
+.dial-pad .mobile-signal-3 {
+  height: 10px;
+  left: 290px;
+  position: absolute;
+  top: 14px;
+  width: 17px;
+}
+
+.dial-pad .overlap-44 {
+  height: 21px;
+  left: 336px;
+  position: absolute;
+  top: 9px;
+  width: 45px;
+}
+
+.dial-pad .charging-circle-3 {
+  aspect-ratio: 1;
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 11px;
+}
+
+.dial-pad .text-wrapper-85 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 21px;
+  left: 6px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 39px;
+}
+
+.dial-pad .text-wrapper-86 {
+  color: #fffcfc;
+  font-family: "Inter", Helvetica;
+  font-size: 25px;
+  font-weight: 300;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  white-space: nowrap;
+}
+
+.dial-pad .check-box-3 {
+  aspect-ratio: 1;
+  height: 20px;
+  left: 288px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 20px;
+}
+
+.dial-pad .image-10 {
+  aspect-ratio: 1;
+  height: 25px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 25px;
+}
+
+.dial-pad .overlap-45 {
+  height: 163px;
+  left: 5px;
+  position: absolute;
+  top: 128px;
+  width: 375px;
+}
+
+.dial-pad .rectangle-30 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.dial-pad .jacob-2 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 132px;
+}
+
+.dial-pad .text-wrapper-87 {
+  color: #ffffff;
+}
+
+.dial-pad .text-wrapper-88 {
+  color: #bbb4b4;
+  font-size: 10px;
+}
+
+.dial-pad .simcard-14 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 12px;
+}
+
+.dial-pad .phone-5 {
+  aspect-ratio: 1;
+  height: 17px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.dial-pad .text-wrapper-89 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 53px;
+}
+
+.dial-pad .information-12 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 18px;
+}
+
+.dial-pad .rectangle-31 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 375px;
+}
+
+.dial-pad .cholan-2 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  width: 132px;
+}
+
+.dial-pad .text-wrapper-90 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 53px;
+}
+
+.dial-pad .information-13 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 18px;
+}
+
+.dial-pad .rectangle-32 {
+  background-color: #000000;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 375px;
+}
+
+.dial-pad .pooja-2 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  width: 155px;
+}
+
+.dial-pad .text-wrapper-91 {
+  color: #e04c4c;
+}
+
+.dial-pad .text-wrapper-92 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 123px;
+  width: 53px;
+}
+
+.dial-pad .information-14 {
+  aspect-ratio: 1;
+  height: 18px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 18px;
+}
+
+.dial-pad .simcard-15 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 12px;
+}
+
+.dial-pad .simcard-16 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 12px;
+}
+
+.dial-pad .overlap-46 {
+  background-color: #000000;
+  height: 59px;
+  left: 5px;
+  position: absolute;
+  top: 291px;
+  width: 375px;
+}
+
+.dial-pad .overlap-47 {
+  height: 45px;
+  left: 28px;
+  position: absolute;
+  top: 6px;
+  width: 132px;
+}
+
+.dial-pad .tanisha-2 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.dial-pad .text-wrapper-93 {
+  color: #d14942;
+}
+
+.dial-pad .simcard-17 {
+  aspect-ratio: 1;
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 12px;
+}

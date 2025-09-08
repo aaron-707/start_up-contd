@@ -1,0 +1,1 @@
+export { Amalod } from "./Amalod";

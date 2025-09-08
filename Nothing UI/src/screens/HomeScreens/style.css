@@ -1,0 +1,673 @@
+.home-screens {
+  align-items: start;
+  background-color: #0f0f0f;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.home-screens .div-7 {
+  background-color: #0f0f0f;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.home-screens .group-10 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.home-screens .overlap-wrapper {
+  height: 99px;
+  left: 22px;
+  position: absolute;
+  top: 141px;
+  width: 157px;
+}
+
+.home-screens .overlap-16 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4.61px 23.03px #00000040;
+  height: 99px;
+  position: relative;
+  width: 155px;
+}
+
+.home-screens .text-wrapper-31 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 16.1px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+  white-space: nowrap;
+}
+
+.home-screens .group-11 {
+  height: 22px;
+  left: 14px;
+  position: absolute;
+  top: 21px;
+  width: 83px;
+}
+
+.home-screens .cloud-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-screens .group-12 {
+  height: 19px;
+  left: 34px;
+  position: absolute;
+  top: 2px;
+  width: 54px;
+}
+
+.home-screens .text-wrapper-32 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 20.7px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .c-2 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 20.7px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .o-2 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 9.9px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.home-screens .group-13 {
+  height: 99px;
+  left: 22px;
+  position: absolute;
+  top: 250px;
+  width: 165px;
+}
+
+.home-screens .navbar {
+  height: 20px;
+  left: 14px;
+  position: absolute;
+  top: 64px;
+  width: 114px;
+}
+
+.home-screens .text-wrapper-33 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-34 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-35 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-36 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-37 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.home-screens .group-14 {
+  height: 37px;
+  left: 14px;
+  position: absolute;
+  top: 19px;
+  width: 73px;
+}
+
+.home-screens .group-15 {
+  height: 37px;
+  position: relative;
+  width: 79px;
+}
+
+.home-screens .text-wrapper-38 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 20.7px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-39 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 9.9px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.home-screens .alarm {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 9.9px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .group-16 {
+  height: 208px;
+  left: 197px;
+  position: absolute;
+  top: 141px;
+  width: 159px;
+}
+
+.home-screens .overlap-17 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4.61px 23.03px #00000040;
+  height: 208px;
+  position: relative;
+  width: 155px;
+}
+
+.home-screens .mon-may-3 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 13.8px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 151px;
+  white-space: nowrap;
+}
+
+.home-screens .ray-3 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 13.8px;
+  font-weight: 400;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.home-screens .group-17 {
+  height: 112px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 76px;
+}
+
+.home-screens .overlap-group-6 {
+  height: 112px;
+  position: relative;
+  width: 70px;
+}
+
+.home-screens .text-wrapper-40 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 46.5px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-41 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 46.5px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+  transform: rotate(90.00deg);
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-42 {
+  color: #151515;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 46.5px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.home-screens .group-18 {
+  height: 42px;
+  left: 22px;
+  position: absolute;
+  top: 640px;
+  width: 332px;
+}
+
+.home-screens .group-19 {
+  background-image: url(../../../static/img/mask-group-11.png);
+  background-size: 100% 100%;
+  display: block;
+  height: 47px;
+  left: 50px;
+  position: absolute;
+  top: 719px;
+  width: 47px;
+}
+
+.home-screens .mask-group-3 {
+  height: 47px;
+  left: 126px;
+  position: absolute;
+  top: 719px;
+  width: 47px;
+}
+
+.home-screens .group-20 {
+  display: block;
+  height: 47px;
+  left: 202px;
+  position: absolute;
+  top: 719px;
+  width: 49px;
+}
+
+.home-screens .overlap-18 {
+  height: 47px;
+  position: relative;
+}
+
+.home-screens .mask-group-4 {
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.home-screens .group-21 {
+  background-image: url(../../../static/img/fill-35-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.home-screens .group-22 {
+  background-image: url(../../../static/img/fill-35-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 39px;
+}
+
+.home-screens .group-23 {
+  height: 47px;
+  left: 277px;
+  position: absolute;
+  top: 719px;
+  width: 47px;
+}
+
+.home-screens .meet-up-with-ray-2 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 78px;
+}
+
+.home-screens .group-24 {
+  height: 38px;
+  left: 22px;
+  position: absolute;
+  top: 376px;
+  width: 96px;
+}
+
+.home-screens .overlap-19 {
+  height: 38px;
+  position: relative;
+}
+
+.home-screens .group-25 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.home-screens .group-26 {
+  height: 38px;
+  position: relative;
+  width: 79px;
+}
+
+.home-screens .text-wrapper-43 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.home-screens .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .line-2 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 96px;
+}
+
+.home-screens .line-3 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 67px;
+}
+
+.home-screens .group-27 {
+  height: 38px;
+  left: 138px;
+  position: absolute;
+  top: 376px;
+  width: 96px;
+}
+
+.home-screens .group-28 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.home-screens .group-29 {
+  height: 38px;
+  position: relative;
+  width: 69px;
+}
+
+.home-screens .line-4 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 93px;
+}
+
+.home-screens .group-30 {
+  background-image: url(../../../static/img/mask-group-13.png);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 258px;
+  position: absolute;
+  top: 376px;
+  width: 95px;
+}
+
+.home-screens .group-31 {
+  height: 18px;
+  left: 11px;
+  position: relative;
+  top: 10px;
+  width: 80px;
+}
+
+.home-screens .group-32 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-screens .overlap-group-7 {
+  height: 18px;
+  position: relative;
+}
+
+.home-screens .vector-7 {
+  height: 13px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
+.home-screens .fi-rr-broom-instance {
+  height: 18px !important;
+  width: 18px !important;
+}
+
+.home-screens .overlap-20 {
+  height: 13px;
+  left: 22px;
+  position: absolute;
+  top: 4px;
+  width: 52px;
+}
+
+.home-screens .clean {
+  color: #313131;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .clean-2 {
+  color: #313131;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .clean-3 {
+  color: #313131;
+  font-family: "Dots All For Now JL-Regular", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screens .navigation-home-6 {
+  background-color: unset !important;
+  box-shadow: 0px 4px 4px #00000040 !important;
+  left: 0 !important;
+  opacity: 0.2 !important;
+  position: absolute !important;
+  top: 778px !important;
+}
+
+.home-screens .navigation-home-7 {
+  background-color: #ffffff !important;
+}
+
+.home-screens .setting {
+  display: block;
+  height: 22px;
+  left: 333px;
+  opacity: 0.6;
+  position: absolute;
+  top: 76px;
+  width: 22px;
+}
+
+.home-screens .overlap-21 {
+  height: 24px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 24px;
+}
+
+.home-screens .vector-8 {
+  height: 8px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.home-screens .vector-9 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}

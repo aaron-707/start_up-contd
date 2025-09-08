@@ -1,0 +1,779 @@
+.albums {
+  align-items: start;
+  background-color: #000000;
+  display: grid;
+  justify-items: center;
+  width: 100vw;
+}
+
+.albums .div {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #0000001a;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.albums .overlap {
+  height: 620px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 375px;
+}
+
+.albums .album-gride {
+  height: 612px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 325px;
+}
+
+.albums .others {
+  height: 134px;
+  left: 224px;
+  position: absolute;
+  top: 478px;
+  width: 104px;
+}
+
+.albums .rectangle {
+  height: 98px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.albums .text-wrapper {
+  color: #fff6f6;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.albums .text-wrapper-2 {
+  color: #fff6f6;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.albums .documents {
+  height: 134px;
+  left: 113px;
+  position: absolute;
+  top: 478px;
+  width: 104px;
+}
+
+.albums .text-wrapper-3 {
+  color: #fff6f6;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.albums .text-wrapper-4 {
+  color: #fff6f6;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.albums .downloads {
+  height: 134px;
+  left: 1px;
+  position: absolute;
+  top: 478px;
+  width: 104px;
+}
+
+.albums .text-wrapper-5 {
+  color: #fff6f6;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.albums .text-wrapper-6 {
+  color: #fff6f6;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.albums .snapchat {
+  height: 140px;
+  left: 224px;
+  position: absolute;
+  top: 322px;
+  width: 105px;
+}
+
+.albums .img {
+  height: 98px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.albums .text-wrapper-7 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.albums .text-wrapper-8 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 126px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.albums .favorities {
+  height: 140px;
+  left: 113px;
+  position: absolute;
+  top: 322px;
+  width: 104px;
+}
+
+.albums .text-wrapper-9 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.albums .text-wrapper-10 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 126px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.albums .instagram {
+  height: 138px;
+  left: 1px;
+  position: absolute;
+  top: 322px;
+  width: 104px;
+}
+
+.albums .text-wrapper-11 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.albums .text-wrapper-12 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 124px;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.albums .whats-app {
+  height: 141px;
+  left: 224px;
+  position: absolute;
+  top: 154px;
+  width: 104px;
+}
+
+.albums .text-wrapper-13 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.albums .text-wrapper-14 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 127px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.albums .screen-recordings {
+  height: 155px;
+  left: 113px;
+  position: absolute;
+  top: 154px;
+  width: 104px;
+}
+
+.albums .screen-recordings-2 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 57px;
+}
+
+.albums .text-wrapper-15 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.albums .screenshots {
+  height: 141px;
+  left: 3px;
+  position: absolute;
+  top: 154px;
+  width: 104px;
+}
+
+.albums .text-wrapper-16 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.albums .text-wrapper-17 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 127px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.albums .videos {
+  height: 139px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.albums .text-wrapper-18 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.albums .text-wrapper-19 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.albums .camera {
+  height: 139px;
+  left: 113px;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.albums .text-wrapper-20 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.albums .text-wrapper-21 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.albums .all-photos {
+  height: 139px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.albums .text-wrapper-22 {
+  color: #cccccc;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.albums .text-wrapper-23 {
+  color: #606060;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 125px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.albums .bottom-navbar {
+  background-image: url(../../../static/img/rectangle-11.svg);
+  background-size: 100% 100%;
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 529px;
+  width: 375px;
+}
+
+.albums .rectangle-2 {
+  background-color: #fffcfc;
+  border-radius: 8px;
+  height: 4px;
+  left: 134px;
+  position: absolute;
+  top: 78px;
+  width: 102px;
+}
+
+.albums .search {
+  height: 36px;
+  left: 308px;
+  position: absolute;
+  top: 19px;
+  width: 46px;
+}
+
+.albums .search-2 {
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.albums .input {
+  background: transparent;
+  border: none;
+  color: #6f6f6f;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.albums .recommended {
+  height: 34px;
+  left: 184px;
+  position: absolute;
+  top: 20px;
+  width: 94px;
+}
+
+.albums .overlap-group {
+  background-image: url(../../../static/img/diamond.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.albums .rectangle-3 {
+  background-color: #000000;
+  border-radius: 2px;
+  height: 2px;
+  left: 6px;
+  position: relative;
+  top: 4px;
+  width: 11px;
+}
+
+.albums .text-wrapper-24 {
+  color: #6f6f6f;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.albums .div-2 {
+  height: 34px;
+  left: 102px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+}
+
+.albums .img-2 {
+  background-blend-mode: hard-light;
+  height: 17px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.albums .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.albums .photos {
+  height: 38px;
+  left: 23px;
+  position: absolute;
+  top: 19px;
+  width: 47px;
+}
+
+.albums .text-wrapper-26 {
+  color: #6f6f6f;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.albums .picture {
+  background-blend-mode: hard-light;
+  height: 21px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.albums .top-bar {
+  background-color: #000000;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.albums .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.albums .signal {
+  aspect-ratio: 1;
+  height: 11px;
+  left: 302px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 11px;
+}
+
+.albums .signal-2 {
+  aspect-ratio: 1;
+  height: 11px;
+  left: 285px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 11px;
+}
+
+.albums .group {
+  background-color: #d9d9d9;
+  background-image: url(../../../static/img/ellipse-3.svg);
+  background-size: 100% 100%;
+  border-radius: 6px;
+  height: 12px;
+  left: 319px;
+  position: absolute;
+  top: 13px;
+  width: 12px;
+}
+
+.albums .ellipse {
+  background-color: #000000;
+  border-radius: 4px;
+  height: 8px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 8px;
+}
+
+.albums .checkbox-settings {
+  height: 20px;
+  left: 284px;
+  position: absolute;
+  top: 144px;
+  width: 63px;
+}
+
+.albums .vector {
+  height: 20px;
+  left: 46px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.albums .plus-icon {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.albums .overlap-group-2 {
+  height: 18px;
+  position: relative;
+}
+
+.albums .vector-2 {
+  height: 18px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.albums .vector-3 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 18px;
+}
+
+.albums .text-wrapper-28 {
+  -webkit-text-stroke: 1px #ababab;
+  color: #cecece;
+  font-family: "Roboto", Helvetica;
+  font-size: 41px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.albums .vector-4 {
+  height: 17px;
+  left: 234px;
+  position: absolute;
+  top: 146px;
+  width: 17px;
+}
