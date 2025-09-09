@@ -1,25 +1,46 @@
-
-import React from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { useSwipe } from "@use-gesture/react";
-import { animated } from "@react-spring/web";
 
 const withSwipeToHome = (WrappedComponent) => {
-  const ComponentWithSwipe = (props) => {
+  return (props) => {
+    const [dragStart, setDragStart] = useState(null);
     const navigate = useNavigate();
-    const bind = useSwipe(({ down, movement: [, my], velocity: [, vy] }) => {
-      if (!down && my < -50 && vy > 0.5) {
-        navigate("/home");
+
+    const handleMouseDown = (e) => {
+      setDragStart(e.clientY);
+    };
+
+    const handleMouseUp = (e) => {
+      if (dragStart !== null) {
+        const dragEnd = e.clientY;
+        if (dragStart - dragEnd > 50) {
+          // Swipe up
+          if (props.swipeUp === "appdrawer") {
+            navigate("/app-drawer");
+          } else {
+            navigate("/home");
+          }
+        } else if (dragEnd - dragStart > 50) {
+          // Swipe down
+          if (props.swipeDown === "quickbar") {
+            navigate("/quick-bar");
+          } else {
+            navigate("/home");
+          }
+        }
       }
-    });
+      setDragStart(null);
+    };
 
     return (
-      <animated.div {...bind()} style={{ touchAction: "pan-y", height: "100%" }}>
+      <div 
+        onMouseDown={handleMouseDown} 
+        onMouseUp={handleMouseUp}
+      >
         <WrappedComponent {...props} />
-      </animated.div>
+      </div>
     );
   };
-  return ComponentWithSwipe;
 };
 
 export default withSwipeToHome;

@@ -1,7 +1,15 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import "./style.css";
 
 export const Settings = () => {
+  const navigate = useNavigate();
+
+  // Function to handle the click and navigate to the home page
+  const handleNavigateHome = () => {
+    navigate("/home");
+  };
+
   return (
     <div className="settings">
       <div className="div-5">
@@ -583,8 +591,14 @@ export const Settings = () => {
           <div className="ellipse-7" />
         </div>
 
-        <div className="rectangle-27" />
+        <div 
+            className="height_1" 
+            onClick={handleNavigateHome}
+        >
+          <div className="rectangle-27" />
+        </div>
       </div>
     </div>
   );
 };
+

@@ -1,10 +1,47 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React, { useState } from "react";
+import { Link, useNavigate } from "react-router-dom";
 import "./style.css";
 
 export const Contacts = () => {
+  const [dragStart, setDragStart] = useState(null);
+  const navigate = useNavigate();
+
+  const handleMouseDown = (e) => {
+    setDragStart(e.clientY);
+  };
+
+  const handleMouseUp = (e) => {
+    if (dragStart !== null) {
+      const dragEnd = e.clientY;
+      if (dragStart - dragEnd > 50) { // Threshold for upward drag
+        navigate("/home");
+      }
+    }
+    setDragStart(null);
+  };
+
+  const handleTouchStart = (e) => {
+    setDragStart(e.touches[0].clientY);
+  };
+
+  const handleTouchEnd = (e) => {
+    if (dragStart !== null) {
+      const dragEnd = e.changedTouches[0].clientY;
+      if (dragStart - dragEnd > 50) { // Threshold for upward drag
+        navigate("/home");
+      }
+    }
+    setDragStart(null);
+  };
+
   return (
-    <div className="contacts">
+    <div
+      className="contacts"
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+    >
       <div className="div-9">
         <div className="UI-bars-status-bars-4">
           <img className="wifi-4" alt="Wifi" src="/img/wifi.svg" />

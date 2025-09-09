@@ -1,8 +1,30 @@
-import React from "react";
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import "./style.css";
 
 export const QuickBar = () => {
+  const [dragStart, setDragStart] = useState(null);
+  const navigate = useNavigate();
+
+  const handleMouseDown = (e) => {
+    setDragStart(e.clientY);
+  };
+
+  const handleMouseUp = (e) => {
+    if (dragStart !== null) {
+      const dragEnd = e.clientY;
+      if (dragStart - dragEnd > 50) { // Swipe up
+        navigate("/home");
+      }
+    }
+    setDragStart(null);
+  };
   return (
+    <div
+      className="quick-bar"
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}
+    >
     <div className="quick-bar">
       <div className="div-10">
         <div className="group-11">
@@ -197,6 +219,7 @@ export const QuickBar = () => {
           <div className="text-wrapper-130">Eye protection</div>
         </div>
       </div>
+    </div>
     </div>
   );
 };
