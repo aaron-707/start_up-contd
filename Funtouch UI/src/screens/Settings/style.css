@@ -8,7 +8,7 @@
 
 .settings .div-5 {
   background-color: #000000;
-  height: 2213px;
+  height: 2166px;
   overflow: hidden;
   position: relative;
   width: 375px;
@@ -879,7 +879,7 @@
 }
 
 .settings .overlap-38 {
-  height: 223px;
+  height: 77px;
   left: 0;
   position: absolute;
   top: 1974px;
@@ -911,14 +911,6 @@
   top: 41px;
 }
 
-.settings .rectangle-26 {
-  background-color: #1a1a1a;
-  height: 84px;
-  left: 0;
-  position: absolute;
-  top: 139px;
-  width: 375px;
-}
 
 .settings .vector-33 {
   height: 20px;
@@ -970,6 +962,6 @@
   height: 5px;
   left: 136px;
   position: absolute;
-  top: 2203px;
+  top: 2136px;
   width: 103px;
 }

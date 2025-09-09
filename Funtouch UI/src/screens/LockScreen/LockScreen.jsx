@@ -1,9 +1,16 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import "./style.css";
 
 export const LockScreen = () => {
+  const navigate = useNavigate();
+
+  const handleClick = () => {
+    navigate("/home");
+  };
+
   return (
-    <div className="lock-screen">
+    <div className="lock-screen" onClick={handleClick}>
       <div className="overlap-group-wrapper-2">
         <div className="overlap-group-10">
           <div className="ellipse-wrapper">

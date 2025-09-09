@@ -556,8 +556,6 @@ export const Settings = () => {
             </div>
           </div>
 
-          <div className="rectangle-26" />
-
           <img className="vector-33" alt="Vector" src="/img/vector-19.svg" />
 
           <img className="vector-34" alt="Vector" src="/img/vector-20.svg" />
