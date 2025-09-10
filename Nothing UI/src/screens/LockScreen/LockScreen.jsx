@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { HomeHomeAltFill } from "../../components/HomeHomeAltFill";
 import { NavigationHome } from "../../components/NavigationHome";
 import "./style.css";
@@ -57,9 +58,9 @@ export const LockScreen = () => {
 
         <img className="group-9" alt="Group" src="/img/group-34166-1.png" />
 
-        <div className="home-home-alt-fill-wrapper">
+        <Link to="/home-screens" className="home-home-alt-fill-wrapper">
           <HomeHomeAltFill />
-        </div>
+        </Link>
 
         <NavigationHome
           className="navigation-home-2"

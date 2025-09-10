@@ -1,13 +1,44 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React, { useRef } from "react";
+import { Link, useNavigate } from "react-router-dom";
 import { Cloud } from "../../components/Cloud";
 import { FiRrBroom } from "../../components/FiRrBroom";
 import { NavigationHome } from "../../components/NavigationHome";
 import "./style.css";
 
 export const HomeScreens = () => {
+  const navigate = useNavigate();
+  const touchStartRef = useRef(0);
+  const touchTimeRef = useRef(0);
+
+  const handleTouchStart = (e) => {
+    touchStartRef.current = e.targetTouches[0].clientY;
+    touchTimeRef.current = Date.now();
+  };
+
+  const handleTouchEnd = (e) => {
+    const touchEnd = e.changedTouches[0].clientY;
+    const touchDuration = Date.now() - touchTimeRef.current;
+    const swipeDistance = touchStartRef.current - touchEnd;
+
+    // A quick swipe is under 500ms
+    if (touchDuration < 500) {
+      // Swipe Up: a positive distance of more than 100px
+      if (swipeDistance > 100) {
+        navigate("/app-draw");
+      }
+      // Swipe Down: a negative distance of more than 100px
+      else if (swipeDistance < -100) {
+        navigate("/quick-setting");
+      }
+    }
+  };
+
   return (
-    <div className="home-screens">
+    <div
+      className="home-screens"
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+    >
       <div className="div-7">
         <img className="group-10" alt="Group" src="/img/group-34154-5.png" />
 
