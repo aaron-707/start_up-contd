@@ -1,9 +1,22 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
+import { useDrag } from '@use-gesture/react';
+import { animated } from '@react-spring/web';
 import "./style.css";
 
 export const QuickSetting = () => {
+  const navigate = useNavigate();
+
+  const bind = useDrag(({ down, swipe: [, swipeY] }) => {
+    if (!down && swipeY !== 0) {
+      if (swipeY < 0) { // Swipe up
+        navigate("/home-screens");
+      }
+    }
+  });
+
   return (
-    <div className="quick-setting">
+    <animated.div className="quick-setting" {...bind()}>
       <div className="div">
         <img className="group" alt="Group" src="/img/group-34154-5.png" />
 
@@ -121,6 +134,6 @@ export const QuickSetting = () => {
           />
         </div>
       </div>
-    </div>
+    </animated.div>
   );
 };

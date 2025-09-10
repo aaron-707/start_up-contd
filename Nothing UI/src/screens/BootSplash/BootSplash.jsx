@@ -5,7 +5,7 @@ import "./style.css";
 export const BootSplash = () => {
   return (
     <div className="boot-splash">
-      <Link className="div-3" to="/amalod">
+      <Link className="div-3" to="/lock-screen">
         <div className="text-wrapper-22">NOTHING</div>
 
         <img
