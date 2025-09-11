@@ -9,14 +9,17 @@ import "./style.css";
 
 export const Settings = () => {
   return (
+    
     <div className="settings">
       <div className="div-13">
+        <img className="group-47" alt="Group" src="/img/group-34154-9.png" />
         <div className="ellipse-wrapper">
-          <img
-            className="ellipse-12"
-            alt="Ellipse"
-            src="/img/ellipse-1-1.png"
-          />
+          
+            <img
+              className="ellipse-12"
+              alt="Ellipse"
+              src="/img/ellipse-1-1.png"
+            />
         </div>
 
         <div className="group-36">
@@ -552,7 +555,7 @@ export const Settings = () => {
           className="navigation-home-12"
           lineClassName="navigation-home-13"
         />
-        <img className="group-47" alt="Group" src="/img/group-34154-9.png" />
+        
       </div>
     </div>
   );
