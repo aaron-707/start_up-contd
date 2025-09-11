@@ -551,9 +551,11 @@ export const Settings = () => {
           </div>
         </Link>
 
+        {/* THIS IS THE MODIFIED LINE */}
         <NavigationHome
           className="navigation-home-12"
           lineClassName="navigation-home-13"
+          to="/home-screens"
         />
         
       </div>
