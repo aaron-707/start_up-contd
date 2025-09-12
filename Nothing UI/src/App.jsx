@@ -8,17 +8,21 @@ import { Contacts } from "./screens/Contacts";
 import { HomeScreens } from "./screens/HomeScreens";
 import { LockScreen } from "./screens/LockScreen";
 import { Photos } from "./screens/Photos";
-import { QuickSetting } from "./screens/QuickSetting";
+import QuickSetting from "./screens/QuickSetting/QuickSetting.jsx";
 import { Settings } from "./screens/Settings";
 
 const router = createBrowserRouter([
   {
-    path: "/*",
+    path: "/",
     element: <BootSplash />,
   },
   {
-    path: "/boot-splash",
-    element: <BootSplash />,
+    path: "/lock-screen",
+    element: <LockScreen />,
+  },
+  {
+    path: "/home-screens",
+    element: <HomeScreens />,
   },
   {
     path: "/quick-setting",
@@ -33,16 +37,8 @@ const router = createBrowserRouter([
     element: <AppDraw />,
   },
   {
-    path: "/lock-screen",
-    element: <LockScreen />,
-  },
-  {
     path: "/amalod",
     element: <Amalod />,
-  },
-  {
-    path: "/home-screens",
-    element: <HomeScreens />,
   },
   {
     path: "/contacts",

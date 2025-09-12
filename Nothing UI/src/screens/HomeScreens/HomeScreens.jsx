@@ -143,10 +143,19 @@ export const HomeScreens = () => {
             </div>
           </div>
         </div>
-        <NavigationHome
-          className="navigation-home-6"
-          lineClassName="navigation-home-7"
-        />
+        
+        {/* Start of the changes */}
+        <div
+          onClick={(e) => e.preventDefault()}
+          style={{ pointerEvents: "none" }}
+        >
+          <NavigationHome
+            className="navigation-home-6"
+            lineClassName="navigation-home-7"
+          />
+        </div>
+        {/* End of the changes */}
+
         <Link className="setting" to="/settings">
           <div className="overlap-21">
             <img className="vector-8" alt="Vector" src="/img/vector-52.png" />
